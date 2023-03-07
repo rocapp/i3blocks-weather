@@ -29,6 +29,7 @@ Location data is provided by [IP-API.com](http://ip-api.com) (it works better th
 [weather]
 command=$SCRIPT_DIR/weather.py 
 interval=3600
+markup=pango
 ```
 
 
